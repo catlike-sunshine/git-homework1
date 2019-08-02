@@ -28,3 +28,4 @@
     #happy github
 >>>>>>> change 1 in master
 
+    #Today is Friday
