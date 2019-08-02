@@ -23,9 +23,12 @@
 
 <<<<<<< HEAD
 
+<<<<<<< HEAD
  #Enjoy coding
 
     #happy github
 >>>>>>> change 1 in master
 
-    #Today is Friday
+#Today is Friday as well as Sunday
+
+>>>>>
