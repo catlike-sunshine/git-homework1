@@ -21,5 +21,10 @@
 
 11. Push to your github and create pull request.
 
-    #Enjoy coding
+<<<<<<< HEAD
+
+ #Enjoy coding
+
+    #happy github
+>>>>>>> change 1 in master
 
